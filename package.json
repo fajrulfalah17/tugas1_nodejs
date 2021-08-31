@@ -1,0 +1,14 @@
+{
+  "name": "tugas1-nodejs",
+  "version": "1.0.0",
+  "description": "Tugas 1 nodejs api/json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fajrul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
